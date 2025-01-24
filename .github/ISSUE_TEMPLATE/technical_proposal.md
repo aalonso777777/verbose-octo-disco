@@ -2,7 +2,7 @@
 name: Technical Proposal
 about: Propose a new architecture or technology
 title: ''
-labels: 'proposal'
+labels: ''
 assignees: ''
 
 ---
